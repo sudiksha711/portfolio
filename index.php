@@ -280,7 +280,7 @@
    		<div class="col-seven tab-full animate-this">
 
    			<h5>Write me a Message</h5>
-
+<!-- 
 
             <form name="contactForm" id="contactForm" method="post">
 
@@ -318,7 +318,10 @@
 						</div>
                </div>
 
-      		</form>
+      		</form> -->
+      		 <div class="form-field">
+                  <button class="submitform" id="submitBtn">Submit</button>
+               </div>
             <div id="message-warning"></div>
 
 
@@ -404,6 +407,7 @@
    <script src="js/jquery-2.1.3.min.js"></script>
    <script src="js/plugins.js"></script>
    <script src="js/main.js"></script>
+   <script src="js/custom.js"></script>
 
 </body>
 
