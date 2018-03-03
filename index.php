@@ -35,9 +35,9 @@
 			<ul class="nav-list">
 				<li class="current"><a class="smoothscroll" href="#home" title="">Home</a></li>
 				<li><a class="smoothscroll" href="#about" title="">About</a></li>
-				<li><a class="smoothscroll" href="#services" title="">Services</a></li>
-				<li><a class="smoothscroll" href="#portfolio" title="">Works</a></li>
-				<li><a class="smoothscroll" href="#contact" title="">Contact</a></li>
+				<li><a class="smoothscroll" href="#services" title="">Skillset</a></li>
+				<li><a class="smoothscroll" href="#portfolio" title="">Showcase</a></li>
+				<li><a class="smoothscroll" href="#contact" title="">Contact Me</a></li>
 			</ul>
 
 
@@ -103,7 +103,7 @@
 
 				<div class="intro">
 					<h3 class="animate-this">About</h3>
-	   			<p class="lead animate-this"> I am a final year Computer Science <span>student</span> from SRM University,KTR,Chennai. A creative designer and an experienced front end developer, looking for job opportunities in data analytics and/or web development.</p>
+	   			<p class="lead animate-this"> I am a final year Computer Science <span>student</span> from SRM University,KTR,Chennai. A creative designer and an experienced front end developer.</p>
 				</div>
 
    		</div>
@@ -118,7 +118,7 @@
    	<div class="row narrow section-intro with-bottom-sep animate-this">
    		<div class="col-full">
 
-   				<h3>Services</h3>
+   				<h3>Skillset</h3>
    			   <h1>What I can do for you.</h1>
    	   </div>
    	</div>
@@ -151,7 +151,7 @@
 			   	<span class="icon"><i class="icon-lego-block"></i></span>
 
 	            <div class="service-content">
-	            	<h3 class="h05">Web Development</h3>
+	            	<h3 class="h05">Frontend Web Development</h3>
 
 	            </div>
 
@@ -279,48 +279,9 @@
 
    		<div class="col-seven tab-full animate-this">
 
-   			<h5>Write me a Message</h5>
-<!-- 
-
-            <form name="contactForm" id="contactForm" method="post">
-
-               <div class="form-field">
- 					   <input name="contactName" type="text" id="contactName" placeholder="Name" value="" minlength="2" required="">
-               </div>
-
-               <div class="row">
-                 	<div class="col-six tab-full">
-                 		<div class="form-field">
-                 			<input name="contactEmail" type="email" id="contactEmail" placeholder="Email" value="" required="">
-                 		</div>
-		            </div>
-	            	<div class="col-six tab-full">
-	            		<div class="form-field">
-	            			<input name="contactSubject" type="text" id="contactSubject" placeholder="Subject" value="">
-	                  </div>
-		            </div>
-               </div>
-
-               <div class="form-field">
-	              	<textarea name="contactMessage" id="contactMessage" placeholder="message" rows="10" cols="50" required=""></textarea>
-	            </div>
-
-               <div class="form-field">
-                  <button class="submitform">Submit</button>
-
-                  <div id="submit-loader">
-                     <div class="text-loader">Sending...</div>
-       			      <div class="s-loader">
-							  	<div class="bounce1"></div>
-							  	<div class="bounce2"></div>
-							  	<div class="bounce3"></div>
-							</div>
-						</div>
-               </div>
-
-      		</form> -->
+  
       		 <div class="form-field">
-                  <button class="submitform" id="submitBtn">Submit</button>
+                  <button class="submitform" id="submitBtn">Click here to write me an email</button>
                </div>
             <div id="message-warning"></div>
 

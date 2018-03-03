@@ -1779,7 +1779,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   position: relative;
   padding: 4.2rem 0 12rem;
   background-color: #FFFFFF;
-  min-height: 696px;
+  min-height: 555px;
   text-align: center;
 }
 #about .about-wrap {
@@ -1813,6 +1813,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   margin-top: 6rem;
 }
 .ohhi{
+    height:62.5rem;
     width: 100% !important;
 }
 
@@ -2403,7 +2404,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   width: 100%;
   background: #FF69B4;
   color: #000000;
-  margin-top: .6rem;
+  margin-top: 13rem;
 }
 #contact button.submitform:hover, #contact button.submitform:focus {
   background: #FF69B4;
