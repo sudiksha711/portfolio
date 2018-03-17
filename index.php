@@ -151,7 +151,7 @@
 			   	<span class="icon"><i class="icon-lego-block"></i></span>
 
 	            <div class="service-content">
-	            	<h3 class="h05">Frontend Web Development</h3>
+	            	<h3 class="h05">Frontend Development</h3>
 
 	            </div>
 
@@ -335,7 +335,7 @@
 
 	      			<form id="mc-form" class="group" novalidate="true">
 
-							<input type="email" value="" name="dEmail" class="email" id="mc-email" placeholder="Email Sudiksha" required="">
+							<input type="email" value="" name="dEmail" class="email" id="mc-email" placeholder="Click here to type & send a quick email" required="">
 
 
 			   			<button><i class="icon-mail"></i></button>
