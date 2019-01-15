@@ -37,7 +37,7 @@
 				<li><a class="smoothscroll" href="#about" title="">About</a></li>
 				<li><a class="smoothscroll" href="#services" title="">Skillset</a></li>
 				<li><a class="smoothscroll" href="#portfolio" title="">Showcase</a></li>
-				<li><a class="smoothscroll" href="#contact" title="">Contact Me</a></li>
+				<li><a class="smoothscroll" href="#contact" title="">Contact</a></li>
 			</ul>
 
 
@@ -103,7 +103,7 @@
 
 				<div class="intro">
 					<h3 class="animate-this">About</h3>
-	   			<p class="lead animate-this"> I am a final year Computer Science <span>student</span> from SRM University,KTR,Chennai. A creative designer and an experienced front end developer.</p>
+	   			<p class="lead animate-this"> I am a Computer Science <span>student</span> at the University of Windsor. A creative designer and an experienced frontend developer.</p>
 				</div>
 
    		</div>
@@ -118,7 +118,7 @@
    	<div class="row narrow section-intro with-bottom-sep animate-this">
    		<div class="col-full">
 
-   				<h3>Skillset</h3>
+   				<h3>Skills</h3>
    			   <h1>What I can do for you.</h1>
    	   </div>
    	</div>
@@ -132,7 +132,7 @@
 	      		<span class="icon"><i class="icon-paint-brush"></i></span>
 
 	            <div class="service-content">
-	            	<h3 class="h05">Branding</h3>
+	            	<h3 class="h05">Frontend Website Development</h3>
 	         	</div>
 
 				</div>
@@ -142,7 +142,7 @@
 					<span class="icon"><i class="icon-earth"></i></span>
 
 	            <div class="service-content">
-	            	<h3 class="h05">Web Design</h3>
+	            	<h3 class="h05">Graphic Design and 3D Animation</h3>
 	            </div>
 
 			   </div>
@@ -151,7 +151,7 @@
 			   	<span class="icon"><i class="icon-lego-block"></i></span>
 
 	            <div class="service-content">
-	            	<h3 class="h05">Frontend Development</h3>
+	            	<h3 class="h05">Artificial Intelligence</h3>
 
 	            </div>
 
@@ -162,7 +162,7 @@
 					<span class="icon"><i class="icon-megaphone"></i></span>
 
 	            <div class="service-content">
-	            	<h3 class="h05">Marketing</h3>
+	            	<h3 class="h05">Bioinformatics</h3>
 
 	            </div>
 
@@ -299,9 +299,9 @@
          	<div class="cinfo">
 	   			<h6>From</h6>
 	   			<p>
-	            	Chennai / Bhilai<br>
-	            	Tamil Nadu /  Chhattisgarh<br>
-	            	India
+	            	Windsor, Ontario<br>
+	            	
+	            	Canada
 	            </p>
 	   		</div> <!-- end cinfo -->
 
