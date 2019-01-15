@@ -37,7 +37,7 @@
 				<li><a class="smoothscroll" href="#about" title="">About</a></li>
 				<li><a class="smoothscroll" href="#services" title="">Skillset</a></li>
 				<li><a class="smoothscroll" href="#portfolio" title="">Showcase</a></li>
-				<li><a class="smoothscroll" href="#contact" title="">Contact</a></li>
+				<li><a class="smoothscroll" href="#contact" title="">Contacts</a></li>
 			</ul>
 
 
