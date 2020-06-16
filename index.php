@@ -82,6 +82,9 @@
 	      <li class="animate-intro">
 	        	<a href="https://www.instagram.com/uxunicornos/"><i class="fa fa-instagram"></i></a>
 	      </li>
+		  <li class="animate-intro">
+	        	<a href="https://www.linkedin.com/in/sudikshakhanduja/"><i class="fa fa-linkedin"></i></a>
+	      </li>
 
 	   </ul>
 
