@@ -74,13 +74,13 @@
 
 		<ul class="home-social-list">
 	      <li class="animate-intro">
-	        	<a href="#"><i class="fa fa-facebook-square"></i></a>
+	        	<a href="https://www.facebook.com/profile.php?id=1363091807"><i class="fa fa-facebook-square"></i></a>
 	      </li>
 	      <li class="animate-intro">
-	        	<a href="#"><i class="fa fa-twitter"></i></a>
+	        	<a href="https://twitter.com/Sudiksha7"><i class="fa fa-twitter"></i></a>
 	      </li>
 	      <li class="animate-intro">
-	        	<a href="#"><i class="fa fa-instagram"></i></a>
+	        	<a href="https://www.instagram.com/uxunicornos/"><i class="fa fa-instagram"></i></a>
 	      </li>
 
 	   </ul>
@@ -103,7 +103,7 @@
 
 				<div class="intro">
 					<h3 class="animate-this">About</h3>
-	   			<p class="lead animate-this"> I am a Computer Science <span>student</span> at the University of Windsor. A creative designer and an experienced frontend developer.</p>
+	   			<p class="lead animate-this"> I am a <span>UX Designer</span> based in Toronto, Canada. I am a recent graduate with masters in computer sciences from the University of Windsor. A creative UX designer and an experienced frontend developer.</p>
 				</div>
 
    		</div>
@@ -132,7 +132,7 @@
 	      		<span class="icon"><i class="icon-paint-brush"></i></span>
 
 	            <div class="service-content">
-	            	<h3 class="h05">Frontend Website Development</h3>
+	            	<h3 class="h05">Website Development</h3>
 	         	</div>
 
 				</div>
@@ -142,7 +142,7 @@
 					<span class="icon"><i class="icon-earth"></i></span>
 
 	            <div class="service-content">
-	            	<h3 class="h05">Graphic Design and 3D Animation</h3>
+	            	<h3 class="h05">UX Research and Design</h3>
 	            </div>
 
 			   </div>
@@ -151,7 +151,7 @@
 			   	<span class="icon"><i class="icon-lego-block"></i></span>
 
 	            <div class="service-content">
-	            	<h3 class="h05">Artificial Intelligence</h3>
+	            	<h3 class="h05">UI Design and Illustrations/h3>
 
 	            </div>
 
@@ -162,7 +162,7 @@
 					<span class="icon"><i class="icon-megaphone"></i></span>
 
 	            <div class="service-content">
-	            	<h3 class="h05">Bioinformatics</h3>
+	            	<h3 class="h05">Automation Testing</h3>
 
 	            </div>
 
@@ -281,13 +281,13 @@
 
   
       		 <div class="form-field">
-                  <button class="submitform" id="submitBtn">Click here to write me an email</button>
+                  <button class="submitform" id="submitBtn">Click to send me an email</button>
                </div>
             <div id="message-warning"></div>
 
 
       		<div id="message-success">
-               <i class="fa fa-check"></i>Your message was sent, thank you!<br>
+               <i class="fa fa-check"></i>Your message was sent, Thank You!<br>
       		</div>
 
          </div>
