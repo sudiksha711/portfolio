@@ -140,7 +140,6 @@ h4, .h04 {
 h5, .h05 {
   font-size: 1.4rem;
   line-height: 1.7;
-  text-transform: uppercase;
   letter-spacing: .2rem;
 }
 
@@ -2404,7 +2403,6 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   width: 100%;
   background: #FF69B4;
   color: #000000;
-  margin-top: 13rem;
 }
 #contact button.submitform:hover, #contact button.submitform:focus {
   background: #FF69B4;

@@ -30,14 +30,14 @@
 
 			<a href="#0" class="close-button" title="close"><span>Close</span></a>
 
-	   	<h3>Sudiksha </h3>
+	   	<h3>Menu</h3>
 
 			<ul class="nav-list">
 				<li class="current"><a class="smoothscroll" href="#home" title="">Home</a></li>
 				<li><a class="smoothscroll" href="#about" title="">About</a></li>
 				<li><a class="smoothscroll" href="#services" title="">Skillset</a></li>
 				<li><a class="smoothscroll" href="#portfolio" title="">Showcase</a></li>
-				<li><a class="smoothscroll" href="#contact" title="">Contacts</a></li>
+				<li><a class="smoothscroll" href="#contact" title="">Contact</a></li>
 			</ul>
 
 
@@ -62,7 +62,7 @@
 				  			</h1>
 
 				  			<div class="more animate-intro">
-				  				<a class="smoothscroll button stroke" href="#about">
+				  				<a class="smoothscroll button stroke" href="#contact">
 				  					Contact Me
 				  				</a>
 				  			</div>
@@ -103,7 +103,7 @@
 
 				<div class="intro">
 					<h3 class="animate-this">About</h3>
-	   			<p class="lead animate-this"> I am a <span>UX Designer</span> based in Toronto, Canada. I am a recent graduate with masters in computer sciences from the University of Windsor. A creative UX designer and an experienced frontend developer.</p>
+	   			<p class="lead animate-this"> I am a <span>UX Designer</span> based in Toronto, Canada. A recent graduate with <span>masters in computer sciences</span> from the University of Windsor. A creative UX designer and an experienced frontend developer.</p>
 				</div>
 
    		</div>
@@ -142,7 +142,7 @@
 					<span class="icon"><i class="icon-earth"></i></span>
 
 	            <div class="service-content">
-	            	<h3 class="h05">UX Research and Design</h3>
+	            	<h3 class="h05">UX Design & Research</h3>
 	            </div>
 
 			   </div>
@@ -151,7 +151,7 @@
 			   	<span class="icon"><i class="icon-lego-block"></i></span>
 
 	            <div class="service-content">
-	            	<h3 class="h05">UI Design and Illustrations/h3>
+	            	<h3 class="h05">UI Design & Illustrations</h3>
 
 	            </div>
 
