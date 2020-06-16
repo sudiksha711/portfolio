@@ -63,7 +63,7 @@
 
 				  			<div class="more animate-intro">
 				  				<a class="smoothscroll button stroke" href="#about">
-				  					Contact me
+				  					Contact Me
 				  				</a>
 				  			</div>
 
